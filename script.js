@@ -66,7 +66,7 @@ function calcular(){
     }
 }
 
-const botaoLimpar = document.querySelector = (".resultados button")
+const botaoLimpar = document.querySelector(".resultados button")
 botaoLimpar.addEventListener("click", limpar)
 
 function limpar() {
